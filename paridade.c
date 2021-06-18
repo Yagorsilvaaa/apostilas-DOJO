@@ -20,7 +20,6 @@ int verificacao (int sinal) {
     return 0;
 }
 
-
 int main () {
     int valorUm, valorDois, valorTres, valorQuatro, valorCinco;
     scanf ("%i", &valorUm);
